@@ -2,7 +2,7 @@
 
 #### Here's the list of python projects I made
 
-     * <a href="number-guessing">Number guessing </a>
+     * Number guessing
      
     
     
